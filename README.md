@@ -3,21 +3,11 @@
 > Author: Chernyshev Dmitry\
 > Group: М80-107М-22
 
-![Teaser](teaser.png)
-
-FreiHAND is a dataset for evaluation and training of deep neural networks for estimation of hand **pose** and **shape** from single color images, 
-which was proposed in our [paper](https://lmb.informatik.uni-freiburg.de/projects/freihand/).
-Its current version contains 32560 unique training samples and 3960 unique evaluation samples. 
-The training samples were recorded with a green screen background allowing for background removal. 
-We provide 3 additional _sample_versions_ for each training sample using different post processing strategies yielding a total training set size of 130240 samples.
-
-This repository contains a collection of scripts that show how the dataset can be used.
-See the [project page](https://lmb.informatik.uni-freiburg.de/projects/freihand/) for additional information.
-
-
 # New:exclamation:
-An extendend version of this dataset, with calibration data and multiple-views, is released in [HanCo](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/).
-Due to ungoing problems with the Codalab evaluation server we have decided to release the evaluation split annotations publicly on our [dataset page](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html).
+* Added [Colab] (https://colab.research.google.com/drive/18DIE-kFUWFhN0idea6lSlumWG_lKqJK4?usp=sharing)
+* Updated scripts:
+** fgfgf
+**
 
 
 # Basic setup
