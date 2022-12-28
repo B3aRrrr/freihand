@@ -8,5 +8,5 @@
 * Updated scripts:
 >  [view_samples.py](https://github.com/B3aRrrr/freihand/blob/master/view_samples.py)\
 >  [setup_mano.py](https://github.com/B3aRrrr/freihand/blob/master/setup_mano.py)\
->  [mano_loader.py]()
+>  [mano_loader.py](https://github.com/B3aRrrr/freihand/blob/master/UpdatedScripts/mano_loader.py)
 
