@@ -1,6 +1,6 @@
 # FreiHAND - Toolbox
 ## This is a copy of the [original dataset page](https://github.com/lmb-freiburg/freihand) created to demonstrate the implementation of Colab Notebook
-> Author: Chernyshev Dmitry
+> Author: Chernyshev Dmitry\
 > Group: М80-107М-22
 
 ![Teaser](teaser.png)
